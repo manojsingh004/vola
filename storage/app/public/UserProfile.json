@@ -1,0 +1,236 @@
+[
+  {
+    "userId": "E1001",
+    "name": "Rajesh Kumar",
+    "age": 35,
+    "city": "Mumbai"
+  },
+  {
+    "userId": "E1002",
+    "name": "Shraddha Gupta",
+    "age": 57,
+    "city": "Delhi"
+  },
+  {
+    "userId": "E1003",
+    "name": "Sanjay Yadav",
+    "age": 31,
+    "city": "Mumbai"
+  },
+  {
+    "userId": "E1004",
+    "name": "Shweta Sharma",
+    "age": 33,
+    "city": "Bangalore"
+  },
+  {
+    "userId": "E1005",
+    "name": "Rajesh Shah",
+    "age": 35,
+    "city": "Delhi"
+  },
+  {
+    "userId": "E1006",
+    "name": "Prakash Kumar",
+    "age": 35,
+    "city": "Mumbai"
+  },
+  {
+    "userId": "E1007",
+    "name": "Vineeta Singh",
+    "age": 28,
+    "city": "Bangalore"
+  },
+  {
+    "userId": "E1008",
+    "name": "Mukesh Kapoor",
+    "age": 71,
+    "city": "Bangalore"
+  },
+  {
+    "userId": "E1009",
+    "name": "Mary Fernandes",
+    "age": 43,
+    "city": "Mumbai"
+  },
+  {
+    "userId": "E1010",
+    "name": "Amit Shah",
+    "age": 28,
+    "city": "Pune"
+  },
+  {
+    "userId": "E1011",
+    "name": "Jayesh Kohli",
+    "age": 48,
+    "city": "Pune"
+  },
+  {
+    "userId": "E1012",
+    "name": "Priya Agarwal",
+    "age": 55,
+    "city": "Delhi"
+  },
+  {
+    "userId": "E1013",
+    "name": "Binny Tendulkar",
+    "age": 35,
+    "city": "Mumbai"
+  },
+  {
+    "userId": "E1014",
+    "name": "Ram Gupta",
+    "age": 25,
+    "city": "Bangalore"
+  },
+  {
+    "userId": "E1015",
+    "name": "Shahid Khan",
+    "age": 65,
+    "city": "Delhi"
+  },
+  {
+    "userId": "E1016",
+    "name": "John Cena",
+    "age": 29,
+    "city": "Pune"
+  },
+  {
+    "userId": "E1017",
+    "name": "John Wick",
+    "age": 24,
+    "city": "Bangalore"
+  },
+  {
+    "userId": "E1018",
+    "name": "Ramdin Verma",
+    "age": 33,
+    "city": "Delhi"
+  },
+  {
+    "userId": "E1019",
+    "name": "Shiv Prakash",
+    "age": 37,
+    "city": "Pune"
+  },
+  {
+    "userId": "E1020",
+    "name": "Kanika Kathuria",
+    "age": 27,
+    "city": "Pune"
+  },
+  {
+    "userId": "E1021",
+    "name": "Priya Jain",
+    "age": 46,
+    "city": "Pune"
+  },
+  {
+    "userId": "E1022",
+    "name": "Nitu Kumari",
+    "age": 52,
+    "city": "Delhi"
+  },
+  {
+    "userId": "E1023",
+    "name": "Anjali Juneja",
+    "age": 43,
+    "city": "Mumbai"
+  },
+  {
+    "userId": "E1024",
+    "name": "Sharat Chandran",
+    "age": 42,
+    "city": "Bangalore"
+  },
+  {
+    "userId": "E1025",
+    "name": "Vikram Singh",
+    "age": 75,
+    "city": "Delhi"
+  },
+  {
+    "userId": "E1026",
+    "name": "Maansingh Aswal",
+    "age": 29,
+    "city": "Pune"
+  },
+  {
+    "userId": "E1027",
+    "name": "Punit Khandelwal",
+    "age": 44,
+    "city": "Bangalore"
+  },
+  {
+    "userId": "E1028",
+    "name": "Arvind Yadav",
+    "age": 78,
+    "city": "Delhi"
+  },
+  {
+    "userId": "E1029",
+    "name": "Kausal Kumar",
+    "age": 49,
+    "city": "Pune"
+  },
+  {
+    "userId": "E1030",
+    "name": "Naziya Siddiqui",
+    "age": 77,
+    "city": "Delhi"
+  },
+  {
+    "userId": "E1031",
+    "name": "Kalyani Patro",
+    "age": 46,
+    "city": "Pune"
+  },
+  {
+    "userId": "E1032",
+    "name": "Nitu Kumari",
+    "age": 52,
+    "city": "Mumbai"
+  },
+  {
+    "userId": "E1033",
+    "name": "Devinder Chadda",
+    "age": 43,
+    "city": "Mumbai"
+  },
+  {
+    "userId": "E1034",
+    "name": "Rajkumar Chawla",
+    "age": 42,
+    "city": "Bangalore"
+  },
+  {
+    "userId": "E1035",
+    "name": "Kuldeep Singh",
+    "age": 69,
+    "city": "Delhi"
+  },
+  {
+    "userId": "E1036",
+    "name": "Jitender Kumar",
+    "age": 29,
+    "city": "Pune"
+  },
+  {
+    "userId": "E1037",
+    "name": "Lalit Kathuriya",
+    "age": 54,
+    "city": "Bangalore"
+  },
+  {
+    "userId": "E1038",
+    "name": "Harsh Dagar",
+    "age": 68,
+    "city": "Delhi"
+  },
+  {
+    "userId": "E1039",
+    "name": "Mohan Kumar",
+    "age":59,
+    "city": "Pune"
+  }
+]
